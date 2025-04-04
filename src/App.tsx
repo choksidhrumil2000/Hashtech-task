@@ -1,7 +1,7 @@
 import './App.css';
 import MainPage from './Pages/Mainpage/MainPage';
 
-function App() {
+const App:React.FC = ()=> {
   return (
     <div>
       <MainPage /> 
